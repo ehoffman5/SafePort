@@ -1,5 +1,5 @@
 {
-  "name": "comp330sp19p3",
+  "name": "safeport",
   "version": "1.0.0",
   "description": "",
   "main": "main.js",
@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sharpnachos/comp330sp19p3.git"
+    "url": "git+https://github.com/ehoffman5/SafePort.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/sharpnachos/comp330sp19p3/issues"
+    "url": "https://github.com/ehoffman5/SafePort/issues"
   },
-  "homepage": "https://github.com/sharpnachos/comp330sp19p3#readme",
+  "homepage": "https://github.com/ehoffman5/SafePort#readme",
   "devDependencies": {
     "electron": "4.1.4"
   },
