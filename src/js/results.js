@@ -1,3 +1,4 @@
+// display json object of scan results on results page load
 function showResults() {
     var fs = require('fs');
     var readData = fs.readFileSync('src/js/results.json');

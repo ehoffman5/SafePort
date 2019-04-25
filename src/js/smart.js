@@ -7,10 +7,12 @@ console.log(results);
 
 var runSmart = document.getElementById("runSmart")
 
+// add event listener for scan button click
 runSmart.addEventListener('click', function() {
-    // open load screen
+    // open loading screen
     document.getElementById("load_screen").style.display = "block";
 
+    // run python script
     var python = require('child_process').spawn('python', ['src/python/smart.py']);
 
     python.stdout.on('data', function(data){
@@ -23,7 +25,7 @@ runSmart.addEventListener('click', function() {
         fs.writeFile('src/js/results.json', writeData, (err) => {
             if (err)
                 throw err;
-            else
+            else  // move window to results page
                 document.location.href = "../html/results.html";
         });
     });
