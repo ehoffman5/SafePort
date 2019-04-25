@@ -1,12 +1,14 @@
 # SafePort
 
- This is the official repository of SafePort, the user-friendly port scanner.
+ This is the official repository of SafePort, the user-friendly port scanner.  
  Code for the beta version of this project can be found at this repo: https://github.com/sharpnachos/comp330sp19p3
+
 
 
 ## What is SafePort?
 
 SafePort is a sleek, modern, easy-to-use port scanner that provides an accessible way for the ordinary person to test the security of their own devices. As opposed to less user-friendly port scanners like ZenMap, SafePort makes it easy for users to scan their device with a single click. SafePort sends TCP connection requests to the device's ports (via the user's personal IP address) and determines whether or not the device is at risk.  Once a scan is completed, the user can view which of their ports are open and follow simple documentation for how to close those ports.
+
 
 
 ## Installation
@@ -20,6 +22,7 @@ Please follow the setps below to ensure this application runs as needed in a dev
       * rm -rf node_modules && npm install
  * Type the command "npm start' in the terminal to start Electron
  * An Electron window should open up running the SafePort application
+
 
 
 ## Features
@@ -36,14 +39,15 @@ Custom Scan is an advanced version of Full Scan that lets you scan foreign devic
 SafePort provides easy-to-follow documentation for users on how to close their open ports for Windows, Mac, and Linux as well as a user manual for further questions and information on the subject.
 
 
+
 ## Technologies
 ### Programming Languages
-**Front-end:** HTML, CSS, and JavaScript
-**Back-end:** Python 3
+**Front-end:** HTML, CSS, and JavaScript  
+**Back-end:** Python 3  
 **Data:** JSON
 
 ### Environment
-SafePort uses Electron, a Node.js framework, for its launching, packaging, and graphical user interface.
+SafePort uses Electron, a Node.js framework, for its launching, packaging, and graphical user interface.  
 The official website for Electron can be found here: https://electronjs.org/
 
 ### Testing
