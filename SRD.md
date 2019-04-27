@@ -2,7 +2,6 @@
 
 # **Software Requirements Specification**
 
-## for
 
 # SafePort
 
