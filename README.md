@@ -41,7 +41,7 @@ SafePort provides easy-to-follow documentation for users on how to close their o
 
 
 ## Technologies
-### Programming Languages
+### Languages
 **Front-end:** HTML, CSS, and JavaScript  
 **Back-end:** Python 3  
 **Data:** JSON
