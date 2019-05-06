@@ -1,7 +1,6 @@
 # SafePort
 
-This is the official repository of SafePort, the user-friendly port scanner.  
-Code for the beta version of this project can be found at this repo: https://github.com/sharpnachos/comp330sp19p3
+This is the official repository of SafePort, the user-friendly port scanner.  Code for the beta version of this project can be found at this repo: https://github.com/sharpnachos/comp330sp19p3
  
 **SafePort has also had the honor of winning the Loyola Computer Science Department's end-of-semester project competiton.**
 
