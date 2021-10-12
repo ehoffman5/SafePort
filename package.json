@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/ehoffman5/SafePort#readme",
   "devDependencies": {
-    "electron": "4.1.4"
+    "electron": "11.5.0"
   },
   "dependencies": {
     "open": "^6.1.0"
