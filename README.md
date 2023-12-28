@@ -11,7 +11,7 @@ https://blog.cs.luc.edu/post/184602773801/spring-2019-cs-project-presentations
 
 ## What is SafePort?
 
-SafePort is a sleek, modern, easy-to-use port scanner that provides an accessible way for the ordinary person to test the security of their own devices. As opposed to less user-friendly port scanners like ZenMap, SafePort makes it easy for users to scan their device with a single click. SafePort sends TCP connection requests to the device's ports (via the user's personal IP address) and determines whether or not the device is at risk.  Once a scan is completed, the user can view which of their ports are open and follow simple documentation for how to close those ports.
+SafePort is a simple, modern, easy-to-use port scanner that provides an accessible way for the ordinary person to test the security of their own devices. As opposed to less user-friendly port scanners like ZenMap, SafePort makes it easy for users to scan their device with a single click. SafePort sends TCP connection requests to the device's ports (via the user's personal IP address) and determines whether or not the device is at risk.  Once a scan is completed, the user can view which of their ports are open and follow simple documentation for how to close those ports.
 
 ![safeport](https://user-images.githubusercontent.com/35542660/57244229-98a6fb80-6ffd-11e9-9794-f496db4e754e.PNG)
 
